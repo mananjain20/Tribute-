@@ -1,0 +1,42 @@
+header{
+    /* background-color: rgb(199, 54, 54); */
+    padding:20px;
+    text-align: center;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOO3IBxONO4o4p5Lz5lU7FcC2RWR1YzSD4cQ&s");
+}
+nav{
+    text-align: center;
+    background-color: rgb(184, 222, 218);
+    padding: 15px;
+}
+a{
+    color: rgb(8, 8, 8);
+}
+.content{
+    background-color: rgb(126, 220, 222);
+
+
+}
+.content2{
+    background-color: rgb(127, 179, 197);
+}
+
+.content3{
+    background-color: rgb(166, 216, 221);
+}
+.content4{
+    background-color: rgb(169, 211, 232);
+}
+
+footer{
+    text-align: center;
+    background-color: blueviolet;
+    padding: 20px;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSnYvV-6i7ZI3NZBAj736x1SrAONoZeZT8GA&s")
+    
+}
+
+
+body {
+    background-color: rgb(220, 216, 220);
+}
